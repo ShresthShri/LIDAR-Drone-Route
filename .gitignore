@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Output and data
+/data/output/
+/data/processed/*.tif
+*.csv
+*.png
+
+# OS-specific
+.DS_Store
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/

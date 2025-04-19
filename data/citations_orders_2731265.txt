@@ -1,0 +1,16 @@
+The citations in this document should be used to reference the maps and data
+when they have been included in any essays, dissertations or other academic
+works. You should cite the data even if it doesn't appear as an image or map
+in your work if it has been used to generate findings or a new dataset that is
+used.
+
+There is one entry for each product and selected area; you can edit the
+citation if you only use part of the data it covers. Any citations provided
+below are a guide only and should be given in addition to any requirement to
+acknowledge sources and copyright of any data used or any local guidance
+provided:
+
+Lidar Composite Point Cloud Scotland (Phase 1) [LAZ geospatial data], Scale 1:1000, Tiles: nt1461,nt1462,nt1463,nt1464,nt1465,nt1466,nt1467,nt1468,nt1469,nt1470,nt1471,nt1561,nt1562,nt1563,nt1564,nt1565,nt1566,nt1567,nt1568,nt1569,nt1570,nt1571,nt1662,nt1663,nt1664,nt1665,nt1666,nt1667,nt1668,nt1669,nt1670,nt1671,nt1762,nt1763,nt1764,nt1765,nt1766,nt1767,nt1768,nt1769,nt1770,nt1771,nt1861,nt1862,nt1863,nt1864,nt1865,nt1866,nt1867,nt1868,nt1869,nt1870,nt1961,nt1962,nt1963,nt1964,nt1965,nt1966,nt1967,nt1968,nt2062,nt2063,nt2064,nt2065,nt2066,nt2067,nt2068,nt2162,nt2163,nt2164,nt2165,nt2166,nt2167,nt2261,nt2262,nt2263,nt2264,nt2361,nt2362,nt2363,nt2461,nt2462,nt2463,nt2464,nt2465,nt2561,nt2562,nt2563,nt2564,nt2565,nt2661,nt2662,nt2663,nt2664,nt2665,nt2666,nt2761,nt2762,nt2763,nt2764,nt2765,nt2766,nt2861,nt2862,nt2863,nt2864,nt2865,nt2866,nt2962,nt2963,nt2964,nt2965,nt2966,nt3063,nt3064,nt3065,nt3066,nt3067,nt3163,nt3164,nt3165,nt3166,nt3167,nt3261,nt3262,nt3263,nt3264,nt3265,nt3266,nt3267,nt3268,nt3361,nt3362,nt3363,nt3364,nt3365,nt3366,nt3367,nt3368,nt3461,nt3462,nt3463,nt3464,nt3465,nt3466,nt3467,nt3468,nt3561,nt3562,nt3563,nt3564,nt3565,nt3566,nt3567,nt3568,nt3873,nt3874,nt3875,nt3971,nt3972,nt3973,nt3974,nt3975,nt3976,nt4071,nt4072,nt4073,nt4074,nt4075,nt4076,nt4171,nt4172,nt4173,nt4174,nt4175,nt4176, Updated: 24 February 2012, Open Government Licence, Using: EDINA LIDAR Digimap Service, <https://digimap.edina.ac.uk>, Downloaded: 2025-03-31 16:05:01.909
+Lidar Composite Digital Terrain Model Scotland 2m resolution [ASC geospatial data], Scale 1:8000, Tiles: nt16ne,nt17ne,nt17nw,nt17se,nt17sw,nt26ne,nt26nw,nt27ne,nt27nw,nt27se,nt27sw,nt36ne,nt36nw,nt37ne,nt37nw,nt37se,nt37sw,nt46nw,nt47sw, Updated: 14 November 2016, Open Government Licence, Using: EDINA LIDAR Digimap Service, <https://digimap.edina.ac.uk>, Downloaded: 2025-03-31 16:05:01.909
+Lidar Composite Digital Surface Model Scotland 2m resolution [ASC geospatial data], Scale 1:8000, Tiles: nt16ne,nt17ne,nt17nw,nt17se,nt17sw,nt26ne,nt26nw,nt27ne,nt27nw,nt27se,nt27sw,nt36ne,nt36nw,nt37ne,nt37nw,nt37se,nt37sw,nt46nw,nt47sw, Updated: 14 November 2016, Open Government Licence, Using: EDINA LIDAR Digimap Service, <https://digimap.edina.ac.uk>, Downloaded: 2025-03-31 16:05:01.909
+

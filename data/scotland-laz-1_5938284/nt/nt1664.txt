@@ -1,0 +1,46 @@
+reporting all LAS header entries:
+  file signature:             'LASF'
+  file source ID:             0
+  global_encoding:            1
+  project ID GUID data 1-4:   00000000-0000-0000-0000-000000000000
+  version major.minor:        1.2
+  system identifier:          ''
+  generating software:        'TerraScan'
+  file creation day/year:     48/2012
+  header size:                227
+  offset to point data:       229
+  number var. length records: 0
+  point data format:          1
+  point data record length:   28
+  number of point records:    2268292
+  number of points by return: 1922505 238472 90966 16349 0
+  scale factor x y z:         0.01 0.01 0.01
+  offset x y z:               -0 -0 -0
+  min x y z:                  315999.52 663999.89 212.59
+  max x y z:                  317000.44 664999.85 283.72
+the header is followed by 2 user-defined bytes
+LASzip compression (version 3.0r0 c2 50000): POINT10 2 GPSTIME11 2
+reporting minimum and maximum for all LAS point record entries ...
+  X            31599952   31700044
+  Y            66399989   66499985
+  Z               21259      28372
+  intensity           1       5100
+  return_number       1          4
+  number_of_returns   1          4
+  edge_of_flight_line 0          1
+  scan_direction_flag 0          1
+  classification      1          8
+  scan_angle_rank   -27         25
+  user_data          32         32
+  point_source_ID   121        141
+  gps_time 10162633.881786 10493613.922963
+number of first returns:        1922505
+number of intermediate returns: 107276
+number of last returns:         1922677
+number of single returns:       1684166
+overview over number of returns of given pulse: 1684166 294984 223780 65362 0 0 0
+histogram of classification of points:
+          405197  unclassified (1)
+         1296506  ground (2)
+          566460  medium vegetation (4)
+             129  keypoint (8)

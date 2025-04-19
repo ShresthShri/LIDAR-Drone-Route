@@ -1,0 +1,5 @@
+Your use of the Scottish Phase 1 Lidar data is subject to the conditions of the Open Government Licence for public sector information at http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+
+The Scottish Public Sector LiDAR Phase I dataset was commissioned by the Scottish Government, SEPA and Scottish Water in 2011. 
+
+Attribution statement: Crown copyright Scottish Government, SEPA and Scottish Water (2012).

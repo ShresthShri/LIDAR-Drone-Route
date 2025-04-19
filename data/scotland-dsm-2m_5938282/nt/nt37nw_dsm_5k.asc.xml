@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20161114</CreaDate><CreaTime>13293900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToASCII" Date="20161114" Time="132939">RasterToASCII D:\temp\Composite_LIDAR_2015\LIDAR_Merge_2m\NT\NT37\dsm_5k\nt37nw_dsm_5k D:\temp\Composite_LIDAR_2015\LIDAR_Merge_2m\NT\NT37\dsm_5k\nt37nw_dsm_5k.asc</Process></lineage></DataProperties></Esri></metadata>

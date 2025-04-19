@@ -1,0 +1,919 @@
+********************************************************************
+
+EDINA DIGIMAP:
+
+DIGITAL DATA SUPPLY
+
+********************************************************************
+
+
+This data is distributed under licence by:
+
+    EDINA
+    University of Edinburgh
+    https://edina.ac.uk
+
+    Tel:    0131 650 3302
+    Fax:    0131 650 3308
+    Email:  digimap@ed.ac.uk
+		
+
+
+---------------------------------------------------------
+
+CONTENTS
+
+You will have received the data files listed below, each product and area has
+its own folder. Note that each data folder contains a conditions.txt file
+which states the conditions for use of the data within. These conditions can
+vary between different data products.
+
+
+
+-------------------------------------------------------------------------------
+Folder:           scotland-laz-1_5938284
+Extent:           314502.31545771257, 661203.9566513222 - 341734.4523804313, 679458.8462419659
+Date Ordered:     31 March 2025 at 16:05:01
+Product:          Lidar Composite Point Cloud Scotland (Phase 1)
+Version:          Composite
+Format:           LAZ
+Theme:            N/A
+Area:             176 tiles
+Tiles:
+ 
+Tile Name:        nt1461
+Extent:           314000.0, 661000.0 - 315000.0, 662000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1462
+Extent:           314000.0, 662000.0 - 315000.0, 663000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1463
+Extent:           314000.0, 663000.0 - 315000.0, 664000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1464
+Extent:           314000.0, 664000.0 - 315000.0, 665000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1465
+Extent:           314000.0, 665000.0 - 315000.0, 666000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1466
+Extent:           314000.0, 666000.0 - 315000.0, 667000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1467
+Extent:           314000.0, 667000.0 - 315000.0, 668000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1468
+Extent:           314000.0, 668000.0 - 315000.0, 669000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1469
+Extent:           314000.0, 669000.0 - 315000.0, 670000.0
+Last Amended:     10 December 2011
+  
+Tile Name:        nt1470
+Extent:           314000.0, 670000.0 - 315000.0, 671000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt1471
+Extent:           314000.0, 671000.0 - 315000.0, 672000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt1561
+Extent:           315000.0, 661000.0 - 316000.0, 662000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1562
+Extent:           315000.0, 662000.0 - 316000.0, 663000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1563
+Extent:           315000.0, 663000.0 - 316000.0, 664000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1564
+Extent:           315000.0, 664000.0 - 316000.0, 665000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1565
+Extent:           315000.0, 665000.0 - 316000.0, 666000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1566
+Extent:           315000.0, 666000.0 - 316000.0, 667000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1567
+Extent:           315000.0, 667000.0 - 316000.0, 668000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1568
+Extent:           315000.0, 668000.0 - 316000.0, 669000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1569
+Extent:           315000.0, 669000.0 - 316000.0, 670000.0
+Last Amended:     10 December 2011
+  
+Tile Name:        nt1570
+Extent:           315000.0, 670000.0 - 316000.0, 671000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt1571
+Extent:           315000.0, 671000.0 - 316000.0, 672000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt1662
+Extent:           316000.0, 662000.0 - 317000.0, 663000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1663
+Extent:           316000.0, 663000.0 - 317000.0, 664000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1664
+Extent:           316000.0, 664000.0 - 317000.0, 665000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1665
+Extent:           316000.0, 665000.0 - 317000.0, 666000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1666
+Extent:           316000.0, 666000.0 - 317000.0, 667000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1667
+Extent:           316000.0, 667000.0 - 317000.0, 668000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1668
+Extent:           316000.0, 668000.0 - 317000.0, 669000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1669
+Extent:           316000.0, 669000.0 - 317000.0, 670000.0
+Last Amended:     10 December 2011
+  
+Tile Name:        nt1670
+Extent:           316000.0, 670000.0 - 317000.0, 671000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt1671
+Extent:           316000.0, 671000.0 - 317000.0, 672000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt1762
+Extent:           317000.0, 662000.0 - 318000.0, 663000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1763
+Extent:           317000.0, 663000.0 - 318000.0, 664000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1764
+Extent:           317000.0, 664000.0 - 318000.0, 665000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1765
+Extent:           317000.0, 665000.0 - 318000.0, 666000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1766
+Extent:           317000.0, 666000.0 - 318000.0, 667000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1767
+Extent:           317000.0, 667000.0 - 318000.0, 668000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1768
+Extent:           317000.0, 668000.0 - 318000.0, 669000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1769
+Extent:           317000.0, 669000.0 - 318000.0, 670000.0
+Last Amended:     10 December 2011
+  
+Tile Name:        nt1770
+Extent:           317000.0, 670000.0 - 318000.0, 671000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt1771
+Extent:           317000.0, 671000.0 - 318000.0, 672000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt1861
+Extent:           318000.0, 661000.0 - 319000.0, 662000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1862
+Extent:           318000.0, 662000.0 - 319000.0, 663000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1863
+Extent:           318000.0, 663000.0 - 319000.0, 664000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1864
+Extent:           318000.0, 664000.0 - 319000.0, 665000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1865
+Extent:           318000.0, 665000.0 - 319000.0, 666000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1866
+Extent:           318000.0, 666000.0 - 319000.0, 667000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1867
+Extent:           318000.0, 667000.0 - 319000.0, 668000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1868
+Extent:           318000.0, 668000.0 - 319000.0, 669000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1869
+Extent:           318000.0, 669000.0 - 319000.0, 670000.0
+Last Amended:     10 December 2011
+  
+Tile Name:        nt1870
+Extent:           318000.0, 670000.0 - 319000.0, 671000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt1961
+Extent:           319000.0, 661000.0 - 320000.0, 662000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1962
+Extent:           319000.0, 662000.0 - 320000.0, 663000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1963
+Extent:           319000.0, 663000.0 - 320000.0, 664000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1964
+Extent:           319000.0, 664000.0 - 320000.0, 665000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1965
+Extent:           319000.0, 665000.0 - 320000.0, 666000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1966
+Extent:           319000.0, 666000.0 - 320000.0, 667000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1967
+Extent:           319000.0, 667000.0 - 320000.0, 668000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt1968
+Extent:           319000.0, 668000.0 - 320000.0, 669000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2062
+Extent:           320000.0, 662000.0 - 321000.0, 663000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2063
+Extent:           320000.0, 663000.0 - 321000.0, 664000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2064
+Extent:           320000.0, 664000.0 - 321000.0, 665000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2065
+Extent:           320000.0, 665000.0 - 321000.0, 666000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2066
+Extent:           320000.0, 666000.0 - 321000.0, 667000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2067
+Extent:           320000.0, 667000.0 - 321000.0, 668000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2068
+Extent:           320000.0, 668000.0 - 321000.0, 669000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2162
+Extent:           321000.0, 662000.0 - 322000.0, 663000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2163
+Extent:           321000.0, 663000.0 - 322000.0, 664000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2164
+Extent:           321000.0, 664000.0 - 322000.0, 665000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2165
+Extent:           321000.0, 665000.0 - 322000.0, 666000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2166
+Extent:           321000.0, 666000.0 - 322000.0, 667000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2167
+Extent:           321000.0, 667000.0 - 322000.0, 668000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2261
+Extent:           322000.0, 661000.0 - 323000.0, 662000.0
+Last Amended:     23 February 2012
+  
+Tile Name:        nt2262
+Extent:           322000.0, 662000.0 - 323000.0, 663000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2263
+Extent:           322000.0, 663000.0 - 323000.0, 664000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2264
+Extent:           322000.0, 664000.0 - 323000.0, 665000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2361
+Extent:           323000.0, 661000.0 - 324000.0, 662000.0
+Last Amended:     23 February 2012
+  
+Tile Name:        nt2362
+Extent:           323000.0, 662000.0 - 324000.0, 663000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2363
+Extent:           323000.0, 663000.0 - 324000.0, 664000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2461
+Extent:           324000.0, 661000.0 - 325000.0, 662000.0
+Last Amended:     23 February 2012
+  
+Tile Name:        nt2462
+Extent:           324000.0, 662000.0 - 325000.0, 663000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2463
+Extent:           324000.0, 663000.0 - 325000.0, 664000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2464
+Extent:           324000.0, 664000.0 - 325000.0, 665000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2465
+Extent:           324000.0, 665000.0 - 325000.0, 666000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2561
+Extent:           325000.0, 661000.0 - 326000.0, 662000.0
+Last Amended:     23 February 2012
+  
+Tile Name:        nt2562
+Extent:           325000.0, 662000.0 - 326000.0, 663000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2563
+Extent:           325000.0, 663000.0 - 326000.0, 664000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2564
+Extent:           325000.0, 664000.0 - 326000.0, 665000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2565
+Extent:           325000.0, 665000.0 - 326000.0, 666000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2661
+Extent:           326000.0, 661000.0 - 327000.0, 662000.0
+Last Amended:     23 February 2012
+  
+Tile Name:        nt2662
+Extent:           326000.0, 662000.0 - 327000.0, 663000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2663
+Extent:           326000.0, 663000.0 - 327000.0, 664000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2664
+Extent:           326000.0, 664000.0 - 327000.0, 665000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2665
+Extent:           326000.0, 665000.0 - 327000.0, 666000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2666
+Extent:           326000.0, 666000.0 - 327000.0, 667000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2761
+Extent:           327000.0, 661000.0 - 328000.0, 662000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2762
+Extent:           327000.0, 662000.0 - 328000.0, 663000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2763
+Extent:           327000.0, 663000.0 - 328000.0, 664000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2764
+Extent:           327000.0, 664000.0 - 328000.0, 665000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2765
+Extent:           327000.0, 665000.0 - 328000.0, 666000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2766
+Extent:           327000.0, 666000.0 - 328000.0, 667000.0
+Last Amended:     17 February 2012
+  
+Tile Name:        nt2861
+Extent:           328000.0, 661000.0 - 329000.0, 662000.0
+Last Amended:     10 December 2011
+  
+Tile Name:        nt2862
+Extent:           328000.0, 662000.0 - 329000.0, 663000.0
+Last Amended:     10 December 2011
+  
+Tile Name:        nt2863
+Extent:           328000.0, 663000.0 - 329000.0, 664000.0
+Last Amended:     10 December 2011
+  
+Tile Name:        nt2864
+Extent:           328000.0, 664000.0 - 329000.0, 665000.0
+Last Amended:     10 December 2011
+  
+Tile Name:        nt2865
+Extent:           328000.0, 665000.0 - 329000.0, 666000.0
+Last Amended:     9 December 2011
+  
+Tile Name:        nt2866
+Extent:           328000.0, 666000.0 - 329000.0, 667000.0
+Last Amended:     10 December 2011
+  
+Tile Name:        nt2962
+Extent:           329000.0, 662000.0 - 330000.0, 663000.0
+Last Amended:     10 December 2011
+  
+Tile Name:        nt2963
+Extent:           329000.0, 663000.0 - 330000.0, 664000.0
+Last Amended:     10 December 2011
+  
+Tile Name:        nt2964
+Extent:           329000.0, 664000.0 - 330000.0, 665000.0
+Last Amended:     9 December 2011
+  
+Tile Name:        nt2965
+Extent:           329000.0, 665000.0 - 330000.0, 666000.0
+Last Amended:     9 December 2011
+  
+Tile Name:        nt2966
+Extent:           329000.0, 666000.0 - 330000.0, 667000.0
+Last Amended:     10 December 2011
+  
+Tile Name:        nt3063
+Extent:           330000.0, 663000.0 - 331000.0, 664000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3064
+Extent:           330000.0, 664000.0 - 331000.0, 665000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3065
+Extent:           330000.0, 665000.0 - 331000.0, 666000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3066
+Extent:           330000.0, 666000.0 - 331000.0, 667000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3067
+Extent:           330000.0, 667000.0 - 331000.0, 668000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3163
+Extent:           331000.0, 663000.0 - 332000.0, 664000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3164
+Extent:           331000.0, 664000.0 - 332000.0, 665000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3165
+Extent:           331000.0, 665000.0 - 332000.0, 666000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3166
+Extent:           331000.0, 666000.0 - 332000.0, 667000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3167
+Extent:           331000.0, 667000.0 - 332000.0, 668000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3261
+Extent:           332000.0, 661000.0 - 333000.0, 662000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3262
+Extent:           332000.0, 662000.0 - 333000.0, 663000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3263
+Extent:           332000.0, 663000.0 - 333000.0, 664000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3264
+Extent:           332000.0, 664000.0 - 333000.0, 665000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3265
+Extent:           332000.0, 665000.0 - 333000.0, 666000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3266
+Extent:           332000.0, 666000.0 - 333000.0, 667000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3267
+Extent:           332000.0, 667000.0 - 333000.0, 668000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3268
+Extent:           332000.0, 668000.0 - 333000.0, 669000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3361
+Extent:           333000.0, 661000.0 - 334000.0, 662000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3362
+Extent:           333000.0, 662000.0 - 334000.0, 663000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3363
+Extent:           333000.0, 663000.0 - 334000.0, 664000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3364
+Extent:           333000.0, 664000.0 - 334000.0, 665000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3365
+Extent:           333000.0, 665000.0 - 334000.0, 666000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3366
+Extent:           333000.0, 666000.0 - 334000.0, 667000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3367
+Extent:           333000.0, 667000.0 - 334000.0, 668000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3368
+Extent:           333000.0, 668000.0 - 334000.0, 669000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3461
+Extent:           334000.0, 661000.0 - 335000.0, 662000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3462
+Extent:           334000.0, 662000.0 - 335000.0, 663000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3463
+Extent:           334000.0, 663000.0 - 335000.0, 664000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3464
+Extent:           334000.0, 664000.0 - 335000.0, 665000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3465
+Extent:           334000.0, 665000.0 - 335000.0, 666000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3466
+Extent:           334000.0, 666000.0 - 335000.0, 667000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3467
+Extent:           334000.0, 667000.0 - 335000.0, 668000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3468
+Extent:           334000.0, 668000.0 - 335000.0, 669000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3561
+Extent:           335000.0, 661000.0 - 336000.0, 662000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3562
+Extent:           335000.0, 662000.0 - 336000.0, 663000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3563
+Extent:           335000.0, 663000.0 - 336000.0, 664000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3564
+Extent:           335000.0, 664000.0 - 336000.0, 665000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3565
+Extent:           335000.0, 665000.0 - 336000.0, 666000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3566
+Extent:           335000.0, 666000.0 - 336000.0, 667000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3567
+Extent:           335000.0, 667000.0 - 336000.0, 668000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3568
+Extent:           335000.0, 668000.0 - 336000.0, 669000.0
+Last Amended:     15 September 2011
+  
+Tile Name:        nt3873
+Extent:           338000.0, 673000.0 - 339000.0, 674000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt3874
+Extent:           338000.0, 674000.0 - 339000.0, 675000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt3875
+Extent:           338000.0, 675000.0 - 339000.0, 676000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt3971
+Extent:           339000.0, 671000.0 - 340000.0, 672000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt3972
+Extent:           339000.0, 672000.0 - 340000.0, 673000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt3973
+Extent:           339000.0, 673000.0 - 340000.0, 674000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt3974
+Extent:           339000.0, 674000.0 - 340000.0, 675000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt3975
+Extent:           339000.0, 675000.0 - 340000.0, 676000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt3976
+Extent:           339000.0, 676000.0 - 340000.0, 677000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt4071
+Extent:           340000.0, 671000.0 - 341000.0, 672000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt4072
+Extent:           340000.0, 672000.0 - 341000.0, 673000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt4073
+Extent:           340000.0, 673000.0 - 341000.0, 674000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt4074
+Extent:           340000.0, 674000.0 - 341000.0, 675000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt4075
+Extent:           340000.0, 675000.0 - 341000.0, 676000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt4076
+Extent:           340000.0, 676000.0 - 341000.0, 677000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt4171
+Extent:           341000.0, 671000.0 - 342000.0, 672000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt4172
+Extent:           341000.0, 672000.0 - 342000.0, 673000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt4173
+Extent:           341000.0, 673000.0 - 342000.0, 674000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt4174
+Extent:           341000.0, 674000.0 - 342000.0, 675000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt4175
+Extent:           341000.0, 675000.0 - 342000.0, 676000.0
+Last Amended:     19 July 2011
+  
+Tile Name:        nt4176
+Extent:           341000.0, 676000.0 - 342000.0, 677000.0
+Last Amended:     19 July 2011
+    -------------------------------------------------------------------------------
+Folder:           scotland-dtm-2m_5938283
+Extent:           314502.31545771257, 661203.9566513222 - 341734.4523804313, 679458.8462419659
+Date Ordered:     31 March 2025 at 16:05:01
+Product:          Lidar Composite Digital Terrain Model Scotland 2m resolution
+Version:          Composite
+Format:           ASC
+Theme:            N/A
+Area:             19 tiles
+Tiles:
+ 
+Tile Name:        nt16ne
+Extent:           315000.0, 665000.0 - 320000.0, 670000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt17ne
+Extent:           315000.0, 675000.0 - 320000.0, 680000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt17nw
+Extent:           310000.0, 675000.0 - 315000.0, 680000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt17se
+Extent:           315000.0, 670000.0 - 320000.0, 675000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt17sw
+Extent:           310000.0, 670000.0 - 315000.0, 675000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt26ne
+Extent:           325000.0, 665000.0 - 330000.0, 670000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt26nw
+Extent:           320000.0, 665000.0 - 325000.0, 670000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt27ne
+Extent:           325000.0, 675000.0 - 330000.0, 680000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt27nw
+Extent:           320000.0, 675000.0 - 325000.0, 680000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt27se
+Extent:           325000.0, 670000.0 - 330000.0, 675000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt27sw
+Extent:           320000.0, 670000.0 - 325000.0, 675000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt36ne
+Extent:           335000.0, 665000.0 - 340000.0, 670000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt36nw
+Extent:           330000.0, 665000.0 - 335000.0, 670000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt37ne
+Extent:           335000.0, 675000.0 - 340000.0, 680000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt37nw
+Extent:           330000.0, 675000.0 - 335000.0, 680000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt37se
+Extent:           335000.0, 670000.0 - 340000.0, 675000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt37sw
+Extent:           330000.0, 670000.0 - 335000.0, 675000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt46nw
+Extent:           340000.0, 665000.0 - 345000.0, 670000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt47sw
+Extent:           340000.0, 670000.0 - 345000.0, 675000.0
+Last Amended:     14 November 2016
+    -------------------------------------------------------------------------------
+Folder:           scotland-dsm-2m_5938282
+Extent:           314502.31545771257, 661203.9566513222 - 341734.4523804313, 679458.8462419659
+Date Ordered:     31 March 2025 at 16:05:01
+Product:          Lidar Composite Digital Surface Model Scotland 2m resolution
+Version:          Composite
+Format:           ASC
+Theme:            N/A
+Area:             19 tiles
+Tiles:
+ 
+Tile Name:        nt16ne
+Extent:           315000.0, 665000.0 - 320000.0, 670000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt17ne
+Extent:           315000.0, 675000.0 - 320000.0, 680000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt17nw
+Extent:           310000.0, 675000.0 - 315000.0, 680000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt17se
+Extent:           315000.0, 670000.0 - 320000.0, 675000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt17sw
+Extent:           310000.0, 670000.0 - 315000.0, 675000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt26ne
+Extent:           325000.0, 665000.0 - 330000.0, 670000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt26nw
+Extent:           320000.0, 665000.0 - 325000.0, 670000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt27ne
+Extent:           325000.0, 675000.0 - 330000.0, 680000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt27nw
+Extent:           320000.0, 675000.0 - 325000.0, 680000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt27se
+Extent:           325000.0, 670000.0 - 330000.0, 675000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt27sw
+Extent:           320000.0, 670000.0 - 325000.0, 675000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt36ne
+Extent:           335000.0, 665000.0 - 340000.0, 670000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt36nw
+Extent:           330000.0, 665000.0 - 335000.0, 670000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt37ne
+Extent:           335000.0, 675000.0 - 340000.0, 680000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt37nw
+Extent:           330000.0, 675000.0 - 335000.0, 680000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt37se
+Extent:           335000.0, 670000.0 - 340000.0, 675000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt37sw
+Extent:           330000.0, 670000.0 - 335000.0, 675000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt46nw
+Extent:           340000.0, 665000.0 - 345000.0, 670000.0
+Last Amended:     14 November 2016
+  
+Tile Name:        nt47sw
+Extent:           340000.0, 670000.0 - 345000.0, 675000.0
+Last Amended:     14 November 2016
+     
